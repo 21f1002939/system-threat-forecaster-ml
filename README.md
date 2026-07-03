@@ -45,6 +45,3 @@ This work is based on a Kaggle competition aimed at building reliable machine le
 - Scikit-learn
 - Matplotlib / Seaborn
 
----
-
-## 📂 Project Structure
